@@ -1,0 +1,1 @@
+alter table CUBASTUDIOTELEGRAMBOT_LOGIN drop column LOGIN_NAME__U16465 cascade ;

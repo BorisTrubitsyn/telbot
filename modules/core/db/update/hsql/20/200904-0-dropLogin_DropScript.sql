@@ -1,0 +1,1 @@
+drop table CUBASTUDIOTELEGRAMBOT_LOGIN__U06898 if exists cascade ;

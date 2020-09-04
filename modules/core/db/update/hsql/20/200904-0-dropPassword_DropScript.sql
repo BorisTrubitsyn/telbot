@@ -1,0 +1,1 @@
+drop table CUBASTUDIOTELEGRAMBOT_PASSWORD__U00822 if exists cascade ;
